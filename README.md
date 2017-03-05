@@ -5,4 +5,6 @@ This game was created using Visual Studio Enterprise 2015 \r\n
 
 Git hub wouldn't let me upload it all together so i had to upload it bit by bit.
 
+After downloading the files from the repository to a file of your desire move everything except MemoryDen.sln into the MemoryDen folder 
+
 
